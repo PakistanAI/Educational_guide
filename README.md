@@ -9,7 +9,8 @@ Access: Audit the course or apply for financial aid (2-3 weeks approval time)
 This course is considered the best introduction to machine learning by the entire global community for its simplicity and concept-based learning.   
 Advantages: 
 - Andrew Ng dives into the algorithms used in machine learning by keeping mathematical involvement to a minimum whilst delivering all the intuition behind the mathematics used
-- Andrew Ng delivers practical advice on how to approach and solve machine learning problems throughout the course  
+- Andrew Ng delivers practical advice on how to approach and solve machine learning problems throughout the course 
+
 Disadvatages:
 - Delivering mathematical intuition becomes difficult due to the increased mathematical complexity in certain algorithms
 - Octave/MATLAB is used for programming assignments in the course - a language that is now used less within the machine learning community
