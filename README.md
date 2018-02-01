@@ -89,7 +89,8 @@ Deep Learning (DL) is recongnised as a subdomain of ML and a wide majority of al
 
 #### [Deep Learning Specialization on Coursera by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 Access: Audit / Financial aid (2-3 weeks approval time) / Payment   
-This specialisation (a sequence of many courses) is considered as a logical extension from [Andrew Ng's machine learning course](#machine-learning-on-coursera-by-andrew-ng) and is recognised as the best introduction to deep learning by the entire global community for its simplicity and concept-based learning.   
+This specialisation (a sequence of many courses) is considered as a logical extension from [Andrew Ng's machine learning course](#machine-learning-on-coursera-by-andrew-ng) and is recognised as the best introduction to deep learning by the entire global community for its simplicity and concept-based learning. This specialisation contains 5 courses.    
+Note: You will have to apply for financial aid for each individual course   
 Advantages: 
 - Andrew Ng dives into the algorithms used in machine learning by keeping mathematical involvement to a minimum whilst delivering all the intuition behind the mathematics used
 - Students are expected to code the machine learning algorithms themselves
