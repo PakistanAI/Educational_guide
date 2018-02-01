@@ -6,6 +6,7 @@ However, if you have no previous programming experience it is recommended that y
 | ------------- | 
 | [Getting Started](#getting-started)  | 
 | [Mathematics](#mathematics)  | 
+| [Deep Learning](#deep-learning)  | 
 
 ## Getting Started
 Most of the greatest feats of AI today ([Alpha Go](https://deepmind.com/research/alphago/), [Google Search Engine](https://www.wired.com/2016/02/ai-is-changing-the-technology-behind-google-searches/) and etc) are possible due to a subdomain in AI called Machine Learning. This specific domain focuses on machines teaching themselves how to do a certain task (as defined by the programmer) based on input data i.e. the machine learns from the data hence the name "Machine Learning". Due to the mathematical nature of ML this guide involves mathematical courses as well. It is strongly recommended that students complete them for a better understanding of the subject.
@@ -20,7 +21,7 @@ Advantages:
 
 Disadvatages:
 - Delivering mathematical intuition becomes difficult due to the increased mathematical complexity in certain algorithms
-- Octave/MATLAB is used for programming assignments in the course - a language that is now used less within the machine learning community
+- Octave/MATLAB is used for programming assignments in the course (less recognised programming language within the machine learning community)
 
 #### [Machine Learning on Coursera by Carlos Guestrin and Emily Fox](https://www.coursera.org/learn/ml-foundations)
 Access: Audit / Financial aid (2-3 weeks approval time) / Payment   
@@ -81,3 +82,20 @@ Disadvantages:
 #### [Essence of linear algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 Access: Free   
 This Youtube playlist discusses the intuition of linear algebra from different perspectives and builds up understanding. It acts as great supplementary content to a course that a student is already currently doing in linear algebra.
+
+## Deep Learning
+Deep Learning (DL) is recongnised as a subdomain of ML and a wide majority of all modern applications of AI lie within this specific domain. DL can be considered as an extension of Artificial Neural Networks (ANNs) where the architecture of the neural network is tweaked. The greatest benefit of DL is that it eliminates the need of feature engineering as required in ML with the unfortunate drawback that increased computing power and more data is required. Most of today's computer vision (CV) and natural language processing (NLP) is based entirely on DL. An understanding of ML is highly recommended before attempting DL courses.
+
+#### [Deep Learning Specialization on Coursera by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+Access: Audit / Financial aid (2-3 weeks approval time) / Payment   
+This specialisation (a sequence of many courses) is considered as a logical extension from [Andrew Ng's machine learning course](#machine-learning-on-coursera-by-andrew-ng) and is recognised as the best introduction to deep learning by the entire global community for its simplicity and concept-based learning.   
+Advantages: 
+- Andrew Ng dives into the algorithms used in machine learning by keeping mathematical involvement to a minimum whilst delivering all the intuition behind the mathematics used
+- Students are expected to code the machine learning algorithms themselves
+- Andrew Ng delivers practical advice on how to approach and solve machine learning problems throughout the course 
+- Python is used for programming assignments in the course (widely recognised programming language within the deep learning community)
+- The most relevant python libraries (within the deep learning community) are used in assignments
+- Computational power is provided to the participants of the course
+
+Disadvatages:
+- Delivering mathematical intuition becomes difficult due to the increased mathematical complexity in certain algorithms
