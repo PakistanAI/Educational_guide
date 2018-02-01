@@ -24,7 +24,7 @@ Disadvatages:
 
 #### [Machine Learning on Coursera by Carlos Guestrin and Emily Fox](https://www.coursera.org/learn/ml-foundations)
 Access: Audit / Financial aid (2-3 weeks approval time) / Payment   
-This course can be conisdered as a less intensive and shorter substitute for Andrew Ng's machine learning course.   
+This course can be conisdered as a less intensive and shorter substitute for [Andrew Ng's machine learning course](#machine-learning-on-coursera-by-andrew-ng).   
 Advantages:
 - Algorithms are explained but students are not required to code them themselves - focus is mainly on learning how to use libraries
 - Python, a well used language in the data science community, is used throughout the assignments   
@@ -44,7 +44,7 @@ Advantages:
 
 Disadvantages:
 - Course is considered challenging by most students
-- Difficult to follow the course if exercises are not attempted by students
+- Difficult to follow the course if exercises are not attempted by students  
 
 #### [Linear Algebra at MIT by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 Access: Free   
@@ -57,6 +57,16 @@ Advantages:
 Disadvantages:
 - Course is considered challenging by most students
 - Difficult to follow the course if exercises are not attempted by students
+
+#### [Linear Algebra by Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+Access: Free   
+For those who find [Linear Algebra at MIT by Gilbert Strang](#linear-algebra-at-mit-by-gilbert-strang) challenging Khan Academy's courses serve as a less rigourous alternative with an increased focus on intuition.   
+Advantages:
+- Highly conceptual videos with focus on intuiton
+- Exercises are provided
+
+Disadvantages:
+- Exercises are oversimplified and lack in real world applications - course does not deliver the skills required to apply concepts to real world applications
 
 #### [Essence of linear algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 Access: Free   
