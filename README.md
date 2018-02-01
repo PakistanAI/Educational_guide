@@ -35,7 +35,7 @@ Disadvantages:
 ## Mathematics
 Although Andrew Ng, Carlos and Emily intentially attempt to cover up the mathematics in order to not overwhelm beginners, students must not shy away from attempting to understand these topics in order to deepen their understanding regarding the subject. As the method of teaching in mathematics within Pakistan requires great improvement, it is strongly recommended that the following courses are taken by all participants. One more thing to note - our focus within mathematics courses is mainly towards rigorous university courses rather than "not so rigorous" MOOC courses. This is due to the fact MOOCs tend to simplify mathematical content which leads to limited applicability of the content to real life situations.
 
-#### ["Statistics 110: Probability" at Harvard by Joe Blitzstein](https://projects.iq.harvard.edu/stat110/home)
+#### [Probability at Harvard by Joe Blitzstein](https://projects.iq.harvard.edu/stat110/home)
 Access: Free   
 This course delivers an entire undergraduate exprience of studying at Harvard and introduces a rigorous and intuition-based introduction of probability and how it is applied.   
 Advantages:
@@ -45,6 +45,16 @@ Advantages:
 Disadvantages:
 - Course is considered challenging by most students
 - Difficult to follow the course if exercises are not attempted by students  
+
+#### [Statistics and Probability by Khan Academy](https://www.khanacademy.org/math/statistics-probability)
+Access: Free   
+For those who find [Probability at Harvard by Joe Blitzstein](#probability-at-harvard-by-joe-blitzstein) challenging Khan Academy's courses serve as a less rigourous alternative with an increased focus on intuition.   
+Advantages:
+- Highly conceptual videos with focus on intuiton
+- Exercises are provided
+
+Disadvantages:
+- Exercises are oversimplified and lack in real world applications - course does not deliver the skills required to apply concepts to real world applications
 
 #### [Linear Algebra at MIT by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 Access: Free   
