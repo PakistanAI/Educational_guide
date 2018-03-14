@@ -7,10 +7,10 @@ Following is a non-exhaustive list in (approx.) alphabetical order of people who
 
 
 ### Andrew Ng
-Co-Founder of Coursera, Professor at Stanford University, Former Chief Scientist at Baidu Research. ([web])(www.andrewng.org/)
+Co-Founder of Coursera, Professor at Stanford University, Former Chief Scientist at Baidu Research. [(web)](www.andrewng.org/)
 
 ### Andrej Karpathy
-Director of AI at Tesla, Stanford PhD, Former Research Scientist at Open AI. ([academic])(https://cs.stanford.edu/people/karpathy/), ([blog])(http://karpathy.github.io/)
+Director of AI at Tesla, Stanford PhD, Former Research Scientist at Open AI. [(academic)](https://cs.stanford.edu/people/karpathy/), [(blog)](http://karpathy.github.io/)
 
 ### Alex Krizhevsky
 Famous for AlexNet, Formerly at Google. [(academic)](https://www.cs.toronto.edu/~kriz/)
