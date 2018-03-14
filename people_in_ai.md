@@ -7,10 +7,10 @@ Following is a non-exhaustive list in (approx.) alphabetical order of people who
 
 
 ### Andrew Ng
-Co-Founder of Coursera, Professor at Stanford University, Former Chief Scientist at Baidu Research. [web](www.andrewng.org/)
+Co-Founder of Coursera, Professor at Stanford University, Former Chief Scientist at Baidu Research. ([web])(www.andrewng.org/)
 
 ### Andrej Karpathy
-Director of AI at Tesla, Stanford PhD, Former Research Scientist at Open AI. [academic](https://cs.stanford.edu/people/karpathy/), [blog](http://karpathy.github.io/)
+Director of AI at Tesla, Stanford PhD, Former Research Scientist at Open AI. ([academic])(https://cs.stanford.edu/people/karpathy/), ([blog])(http://karpathy.github.io/)
 
 ### Alex Krizhevsky
 Famous for AlexNet, Formerly at Google. [(academic)](https://www.cs.toronto.edu/~kriz/)
@@ -19,13 +19,13 @@ Famous for AlexNet, Formerly at Google. [(academic)](https://www.cs.toronto.edu/
 Known for work on LSTM, RNNs, Neural Turing Machine, Currently Research scientist at Google DeepMind.  [(academic)](https://www.cs.toronto.edu/~graves/)
 
 ### Abdelrahman Mohamed
-Principal researcher at Amazon Alexa ML
+Principal researcher at Amazon Alexa ML. [(academic)](http://www.cs.toronto.edu/~asamir/)
 
 ### David Silver
 Professor at University College London, Leads Reinforcement Learning research group at DeepMind, lead researcher on AlphaGo. [(academic)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Home.html)
 
 ### Daphne Koller
-Co-Founder of Coursera, Professor at Stanford
+Co-Founder of Coursera, Professor at Stanford University, Known for her work on Probabilistic Graphical Models and Bayesian ML. [(academic)](http://ai.stanford.edu/users/koller/)
 
 ### Fei-Fei Li
 Professor at Stanford University, Director of Stanford AI Lab and the Stanford Vision Lab. Advisor of Andrej Karpathy [(academic)](http://vision.stanford.edu/feifeili/)

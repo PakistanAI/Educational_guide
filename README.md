@@ -12,6 +12,7 @@ However, if you have no previous programming experience it is recommended that y
 ## Getting Started
 Most of the greatest feats of AI today ([Alpha Go](https://deepmind.com/research/alphago/), [Google Search Engine](https://www.wired.com/2016/02/ai-is-changing-the-technology-behind-google-searches/) and etc) are possible due to a subdomain in AI called Machine Learning. This specific domain focuses on machines teaching themselves how to do a certain task (as defined by the programmer) based on input data i.e. the machine learns from the data hence the name "Machine Learning". Due to the mathematical nature of ML this guide involves mathematical courses as well. It is strongly recommended that students complete them for a better understanding of the subject.
 
+<a name="andrew-ng-coursera"></a>
 #### [Machine Learning on Coursera by Andrew Ng](https://www.coursera.org/learn/machine-learning) (highly recommended)
 Access: Audit / Financial aid (2-3 weeks approval time) / Payment   
 This course is considered the best introduction to machine learning by the entire global community for its simplicity and concept-based learning.   
@@ -20,13 +21,13 @@ Advantages:
 - Students are expected to code the machine learning algorithms themselves
 - Andrew Ng delivers practical advice on how to approach and solve machine learning problems throughout the course
 
-Disadvatages:
+Disadvantages:
 - Delivering mathematical intuition becomes difficult due to the increased mathematical complexity in certain algorithms
 - Octave/MATLAB is used for programming assignments in the course (less recognised programming language within the machine learning community)
 
 #### [Machine Learning on Coursera by Carlos Guestrin and Emily Fox](https://www.coursera.org/learn/ml-foundations)
 Access: Audit / Financial aid (2-3 weeks approval time) / Payment   
-This course can be considered as a less intensive and shorter substitute for [Andrew Ng's machine learning course](#machine-learning-on-coursera-by-andrew-ng).   
+This course can be considered as a less intensive and shorter substitute for [Andrew Ng's machine learning course](#andrew-ng-coursera).   
 Advantages:
 - Algorithms are explained but students are not required to code them themselves - focus is mainly on learning how to use libraries
 - Python, a well used language in the data science community, is used throughout the assignments   
@@ -89,7 +90,7 @@ Deep Learning (DL) is recongnised as a subdomain of ML and a wide majority of al
 
 #### [Deep Learning Specialization on Coursera by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 Access: Audit / Financial aid (2-3 weeks approval time) / Payment   
-This specialisation (a sequence of many courses) is considered as a logical extension from [Andrew Ng's machine learning course](#machine-learning-on-coursera-by-andrew-ng) and is recognised as the best introduction to deep learning by the entire global community for its simplicity and concept-based learning. This specialisation contains 5 courses.    
+This specialisation (a sequence of many courses) is considered as a logical extension from [Andrew Ng's machine learning course](#andrew-ng-coursera) and is recognised as the best introduction to deep learning by the entire global community for its simplicity and concept-based learning. This specialisation contains 5 courses.    
 Note: You will have to apply for financial aid for each individual course   
 Advantages:
 - Andrew Ng dives into the algorithms used in machine learning by keeping mathematical involvement to a minimum whilst delivering all the intuition behind the mathematics used
