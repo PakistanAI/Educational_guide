@@ -1,4 +1,4 @@
-# Honest Advice
+# Honest Advice for Beginners
 Many beginners (or even advanced individuals) look for ways to get started in a DS and ML company. However, since the field is still quite new some employers are hesitant in on-boarding people due to the risk associated with whether the employee will actually deliver value. Here is some general guidance on how to tackle this issue:
 - [P@SHA](https://www.facebook.com/pakict/) recently did an amazing job of curating a [list](https://www.facebook.com/pakict/posts/1939315892775577) of companies that work within the DS/AI domain. Follow these companies and stay updated as to what they are doing. You'll then be one of the first people to find out if they are hiring 
 - Showcase your skills on the [Pakistan.ai group](https://www.facebook.com/groups/1045006612234229) ! There are many people who look around the group and potentially some might just be looking for people to employ. So market yourself and show us what you can do!
