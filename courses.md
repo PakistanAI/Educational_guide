@@ -12,7 +12,7 @@ Most of the greatest feats of AI today ([Alpha Go](https://deepmind.com/research
 <a name="andrew-ng-coursera"></a>
 #### [Machine Learning on Coursera by Andrew Ng](https://www.coursera.org/learn/machine-learning) (highly recommended)
 Access: Audit / Financial aid (2-3 weeks approval time) / Payment   
-This course is considered the best introduction to machine learning by the entire global community for its simplicity and concept-based learning.   
+This course is considered the best introduction to machine learning by the entire global community for its simplicity and concept-based learning. [Course notes](https://drive.google.com/drive/folders/1NyGjJPlsrcFA1Ja9KHMSWNMscMTNnG7F) contributed by [Anas Ayubi](https://www.linkedin.com/in/anasayubi/) and scanned by [Umair Hanif](https://www.linkedin.com/in/umairhanif00/)   
 Advantages:
 - Andrew Ng dives into the algorithms used in machine learning by keeping mathematical involvement to a minimum whilst delivering all the intuition behind the mathematics used
 - Students are expected to code the machine learning algorithms themselves
