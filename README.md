@@ -6,4 +6,5 @@ An educational guide on how to get started in Machine Learning (ML) and Artifici
 | [Courses](/courses.md)  |
 | [A note on Mathematical Rigor](/mathematical_rigor.md)  |
 
-[Pakistan.AI](https://www.facebook.com/PakistandotAI) is constantly on the look out for individuals who can make the guide better so if you have attempted some great course or have some honest advice for the Pakistan Data Science & AI community then please submit a pull request and contribute to the guide!
+## Contributions
+This page is completeley maintained by volunteers! If you feel that this guide must include more information then simply start an issue, create a pull request or email at anasayubi7152@gmail.com (in case you are unfamiliar with github).
