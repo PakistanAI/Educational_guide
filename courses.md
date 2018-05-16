@@ -32,6 +32,33 @@ Advantages:
 Disadvantages:
 - No practical advice on how to approach and solve machine learning problems is given throughout the course
 
+#### [Artificial Intelligence Planning on Open.Ed by Austin Tate and Gerhard Wickler](https://open.ed.ac.uk/artificial-intelligence-planning/)
+Acces: Free
+Focuses on planning in AI and provides an overview of various planning techniques. Planning in AI involves modeling the real world including agents and actions, reasoning about the effects of actions and algorithms for efficiently finding a suitable sequence of actions (plan) to achieve a task. 
+
+Advantages:
+- Great basic course that covers many planning problems and approaches 
+- Short course 
+
+Disadvantages: 
+- Not very intensive, hence lacks programming exercises 
+
+
+
+### Holistic AI Courses 
+These courses present a holistic view of the field and do not focus on Machine Learning.
+
+#### [Intro to Artificial Intelligence on Udacity by Sebastian Thrun and Peter Norvig](https://eu.udacity.com/course/intro-to-artificial-intelligence--cs271)
+Access: Free 
+This course provides an overview of many fields in AI including representation and planning, computer vision, robotics.
+
+Advangtages: 
+- Very intuitive and gentle introduction to each field with quick quizzes 
+- Midterm and Final Assessments 
+
+Disadvantages: 
+- Very old course, so not well maintained, the forums show that many files required for completing the course are not available
+
 ## Mathematics
 Although Andrew Ng, Carlos and Emily intentionally attempt to cover up the mathematics in order to not overwhelm beginners, students must not shy away from attempting to understand these topics in order to deepen their understanding regarding the subject. As the method of teaching in mathematics within Pakistan requires great improvement, **it is strongly recommended that the following courses are taken by all participants**. One more thing to note - our focus within mathematics courses is mainly towards rigorous university courses rather than "not so rigorous" MOOC courses. This is due to the fact MOOCs tend to simplify mathematical content which leads to limited applicability of that content to real life situations. We at [Pakistan.ai](https://www.facebook.com/PakistandotAI) can't emphasis how important it is to pick the correct mathematical courses hence **we dedicated an entire file to this topic**. Read more on this [here](/mathematical_rigor.md).
 
