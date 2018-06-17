@@ -66,7 +66,7 @@ Disadvantages:
 ## Statistics
 
 #### [OpenIntro Statistics](https://www.openintro.org/)
-Access: Free
+Access: Free  
 A very down to earth introduction to Statistics and probability with an intuitive approach and real world examples. The book is accompanied by video lectures, most of which are by the author herself, Dr Mine Cetinkaya Rundell, and the site also has labs in R, which make it one of the most practically beneficial, and accessible courses on Statistics that we have come across.
 Advantages:
 - Good pedagogy, and no assumption of prior knowledge, yet pragmatic examples.
