@@ -13,34 +13,34 @@
 
 
 ## General Artificial Intelligence
-These courses present a holistic view of the field and do not focus on Machine Learning.    
+These courses present a holistic view of Artificial Intelligence as a whole. The courses mentioned here give an idea as to what AI is all about.    
 
 #### [Artificial Intelligence Planning on Open.Ed by Austin Tate and Gerhard Wickler](https://open.ed.ac.uk/artificial-intelligence-planning/)
-Acces: Free
+Acces: Free     
 Focuses on planning in AI and provides an overview of various planning techniques. Planning in AI involves modeling the real world including agents and actions, reasoning about the effects of actions and algorithms for efficiently finding a suitable sequence of actions (plan) to achieve a task.    
 
 Advantages:
 - Great basic course that covers many planning problems and approaches 
-- Short course     
+- Short     
 
 Disadvantages: 
-- Not very intensive, hence lacks programming exercises 
+- Not very intensive & lacks programming exercises 
 
 #### [Intro to Artificial Intelligence on Udacity by Sebastian Thrun and Peter Norvig](https://eu.udacity.com/course/intro-to-artificial-intelligence--cs271)
-Access: Free 
+Access: Free      
 This course provides an overview of many fields in AI including representation and planning, computer vision, robotics. 
 
 Advantages: 
 - Very intuitive and gentle introduction to each field with quick quizzes 
-- Midterm and Final Assessments      
+- Midterm and final assessments are present  
 
 Disadvantages: 
-- Very old course, so not well maintained, the forums show that many files required for completing the course are not available    
+- Old, not well maintained course. Some files necessary for completion are missing    
 
 ## Machine Learning
-Most of the greatest feats of AI today (Speech recognition, [Google Search Engine](https://www.wired.com/2016/02/ai-is-changing-the-technology-behind-google-searches/) and etc) are possible due to a subdomain in AI called Machine Learning. This specific domain focuses on machines teaching themselves how to do a certain task (as defined by the programmer) based on input data i.e. the machine learns from the data hence the name "Machine Learning". Due to the mathematical nature of ML this guide involves mathematical courses as well. It is strongly recommended that students complete them for a better understanding of the subject.     
-<a name="andrew-ng-coursera"></a>
+Most of the greatest feats of AI today (Speech recognition, [Google Search Engine](https://www.wired.com/2016/02/ai-is-changing-the-technology-behind-google-searches/) and etc) are possible due to a subdomain in AI called Machine Learning. This specific domain focuses on machines teaching themselves how to do a certain task (as defined by the programmer) based on input data i.e. the machine learns from the data hence the name "Machine Learning". Due to the mathematical nature of ML this guide involves mathematical courses as well. It is strongly recommended that students complete them for a better understanding of the subject.
 
+<a name="andrew-ng-coursera"></a>
 #### [Machine Learning on Coursera by Andrew Ng](https://www.coursera.org/learn/machine-learning) (highly recommended)
 Access: Audit / Financial aid (2-3 weeks approval time) / Payment   
 This course is considered the best introduction to machine learning by the entire global community for its simplicity and concept-based learning. [Course notes](https://drive.google.com/open?id=1lmx-soWtL38ko7Oc3cz8ve2x6WIdT2es) contributed by [Anas Ayubi](https://www.linkedin.com/in/anasayubi/) and scanned by [Umair Hanif](https://www.linkedin.com/in/umairhanif00/) 
