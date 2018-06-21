@@ -3,6 +3,7 @@
 | Contents      |
 | ------------- |
 | [Getting Started](#getting-started)  |
+| [Statistics](#statistics)  |
 | [Mathematics](#mathematics)  |
 | [Deep Learning](#deep-learning)  |
 
@@ -59,8 +60,20 @@ Advangtages:
 Disadvantages: 
 - Very old course, so not well maintained, the forums show that many files required for completing the course are not available
 
-## Mathematics
-Although Andrew Ng, Carlos and Emily intentionally attempt to cover up the mathematics in order to not overwhelm beginners, students must not shy away from attempting to understand these topics in order to deepen their understanding regarding the subject. As the method of teaching in mathematics within Pakistan requires great improvement, **it is strongly recommended that the following courses are taken by all participants**. One more thing to note - our focus within mathematics courses is mainly towards rigorous university courses rather than "not so rigorous" MOOC courses. This is due to the fact MOOCs tend to simplify mathematical content which leads to limited applicability of that content to real life situations. We at [Pakistan.ai](https://www.facebook.com/PakistandotAI) can't emphasis how important it is to pick the correct mathematical courses hence **we dedicated an entire file to this topic**. Read more on this [here](/mathematical_rigor.md).
+Disadvantages: 
+- Very old course, so not well maintained, the forums show that many files required for completing the course are not available
+
+## Statistics
+
+#### [OpenIntro Statistics](https://www.openintro.org/)
+Access: Free  
+A very down to earth introduction to Statistics and probability with an intuitive approach and real world examples. The book is accompanied by video lectures, most of which are by the author herself, Dr Mine Cetinkaya Rundell, and the site also has labs in R, which make it one of the most practically beneficial, and accessible courses on Statistics that we have come across.
+Advantages:
+- Good pedagogy, and no assumption of prior knowledge, yet pragmatic examples.
+- Plenty of exercises to help home in the concepts
+
+Disadvantages:
+- Although the book covers all topics usually taught in Statistics, but the treatment is still not too in-depth. One would need to move on to more advanced course or books on the subject
 
 #### [Probability at Harvard by Joe Blitzstein](https://projects.iq.harvard.edu/stat110/home)
 Access: Free   
@@ -82,6 +95,9 @@ Advantages:
 
 Disadvantages:
 - Exercises are oversimplified and lack in real world applications - course does not deliver the skills required to apply concepts to real world applications
+
+## Mathematics
+Although Andrew Ng, Carlos and Emily intentionally attempt to cover up the mathematics in order to not overwhelm beginners, students must not shy away from attempting to understand these topics in order to deepen their understanding regarding the subject. As the method of teaching in mathematics within Pakistan requires great improvement, **it is strongly recommended that the following courses are taken by all participants**. One more thing to note - our focus within mathematics courses is mainly towards rigorous university courses rather than "not so rigorous" MOOC courses. This is due to the fact MOOCs tend to simplify mathematical content which leads to limited applicability of that content to real life situations. We at [Pakistan.ai](https://www.facebook.com/PakistandotAI) can't emphasis how important it is to pick the correct mathematical courses hence **we dedicated an entire file to this topic**. Read more on this [here](/mathematical_rigor.md).
 
 #### [Linear Algebra at MIT by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 Access: Free   
