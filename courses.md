@@ -2,15 +2,11 @@
 
 | Contents      |
 | ------------- |
-| [Getting Started](#getting-started)  |
 | [General Artificial Intelligence](#general-artificial-intelligence)  |
 | [Machine Learning](#machine-learning)  |
 | [Statistics](#statistics)  |
 | [Mathematics](#mathematics)  |
 | [Deep Learning](#deep-learning)  |
-
-## Getting Started
-
 
 ## General Artificial Intelligence
 These courses present a holistic view of Artificial Intelligence as a whole. The courses mentioned here give an idea as to what AI is all about.    
