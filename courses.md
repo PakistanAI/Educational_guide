@@ -3,17 +3,48 @@
 | Contents      |
 | ------------- |
 | [Getting Started](#getting-started)  |
+| [General Artificial Intelligence](#general-artificial-intelligence)  |
+| [Machine Learning](#machine-learning)  |
 | [Statistics](#statistics)  |
 | [Mathematics](#mathematics)  |
 | [Deep Learning](#deep-learning)  |
 
 ## Getting Started
-Most of the greatest feats of AI today ([Alpha Go](https://deepmind.com/research/alphago/), [Google Search Engine](https://www.wired.com/2016/02/ai-is-changing-the-technology-behind-google-searches/) and etc) are possible due to a subdomain in AI called Machine Learning. This specific domain focuses on machines teaching themselves how to do a certain task (as defined by the programmer) based on input data i.e. the machine learns from the data hence the name "Machine Learning". Due to the mathematical nature of ML this guide involves mathematical courses as well. It is strongly recommended that students complete them for a better understanding of the subject.
 
+
+## General Artificial Intelligence
+These courses present a holistic view of the field and do not focus on Machine Learning.    
+
+#### [Artificial Intelligence Planning on Open.Ed by Austin Tate and Gerhard Wickler](https://open.ed.ac.uk/artificial-intelligence-planning/)
+Acces: Free
+Focuses on planning in AI and provides an overview of various planning techniques. Planning in AI involves modeling the real world including agents and actions, reasoning about the effects of actions and algorithms for efficiently finding a suitable sequence of actions (plan) to achieve a task.    
+
+Advantages:
+- Great basic course that covers many planning problems and approaches 
+- Short course     
+
+Disadvantages: 
+- Not very intensive, hence lacks programming exercises 
+
+#### [Intro to Artificial Intelligence on Udacity by Sebastian Thrun and Peter Norvig](https://eu.udacity.com/course/intro-to-artificial-intelligence--cs271)
+Access: Free 
+This course provides an overview of many fields in AI including representation and planning, computer vision, robotics. 
+
+Advantages: 
+- Very intuitive and gentle introduction to each field with quick quizzes 
+- Midterm and Final Assessments      
+
+Disadvantages: 
+- Very old course, so not well maintained, the forums show that many files required for completing the course are not available    
+
+## Machine Learning
+Most of the greatest feats of AI today (Speech recognition, [Google Search Engine](https://www.wired.com/2016/02/ai-is-changing-the-technology-behind-google-searches/) and etc) are possible due to a subdomain in AI called Machine Learning. This specific domain focuses on machines teaching themselves how to do a certain task (as defined by the programmer) based on input data i.e. the machine learns from the data hence the name "Machine Learning". Due to the mathematical nature of ML this guide involves mathematical courses as well. It is strongly recommended that students complete them for a better understanding of the subject.     
 <a name="andrew-ng-coursera"></a>
+
 #### [Machine Learning on Coursera by Andrew Ng](https://www.coursera.org/learn/machine-learning) (highly recommended)
 Access: Audit / Financial aid (2-3 weeks approval time) / Payment   
-This course is considered the best introduction to machine learning by the entire global community for its simplicity and concept-based learning. [Course notes](https://drive.google.com/open?id=1lmx-soWtL38ko7Oc3cz8ve2x6WIdT2es) contributed by [Anas Ayubi](https://www.linkedin.com/in/anasayubi/) and scanned by [Umair Hanif](https://www.linkedin.com/in/umairhanif00/)   
+This course is considered the best introduction to machine learning by the entire global community for its simplicity and concept-based learning. [Course notes](https://drive.google.com/open?id=1lmx-soWtL38ko7Oc3cz8ve2x6WIdT2es) contributed by [Anas Ayubi](https://www.linkedin.com/in/anasayubi/) and scanned by [Umair Hanif](https://www.linkedin.com/in/umairhanif00/) 
+
 Advantages:
 - Andrew Ng dives into the algorithms used in machine learning by keeping mathematical involvement to a minimum whilst delivering all the intuition behind the mathematics used
 - Students are expected to code the machine learning algorithms themselves
@@ -26,6 +57,7 @@ Disadvantages:
 #### [Machine Learning on Coursera by Carlos Guestrin and Emily Fox](https://www.coursera.org/learn/ml-foundations)
 Access: Audit / Financial aid (2-3 weeks approval time) / Payment   
 This course can be considered as a less intensive and shorter substitute for [Andrew Ng's machine learning course](#andrew-ng-coursera).   
+
 Advantages:
 - Algorithms are explained but students are not required to code them themselves - focus is mainly on learning how to use libraries
 - Python, a well used language in the data science community, is used throughout the assignments   
@@ -33,41 +65,12 @@ Advantages:
 Disadvantages:
 - No practical advice on how to approach and solve machine learning problems is given throughout the course
 
-#### [Artificial Intelligence Planning on Open.Ed by Austin Tate and Gerhard Wickler](https://open.ed.ac.uk/artificial-intelligence-planning/)
-Acces: Free
-Focuses on planning in AI and provides an overview of various planning techniques. Planning in AI involves modeling the real world including agents and actions, reasoning about the effects of actions and algorithms for efficiently finding a suitable sequence of actions (plan) to achieve a task. 
-
-Advantages:
-- Great basic course that covers many planning problems and approaches 
-- Short course 
-
-Disadvantages: 
-- Not very intensive, hence lacks programming exercises 
-
-
-
-### Holistic AI Courses 
-These courses present a holistic view of the field and do not focus on Machine Learning.
-
-#### [Intro to Artificial Intelligence on Udacity by Sebastian Thrun and Peter Norvig](https://eu.udacity.com/course/intro-to-artificial-intelligence--cs271)
-Access: Free 
-This course provides an overview of many fields in AI including representation and planning, computer vision, robotics.
-
-Advangtages: 
-- Very intuitive and gentle introduction to each field with quick quizzes 
-- Midterm and Final Assessments 
-
-Disadvantages: 
-- Very old course, so not well maintained, the forums show that many files required for completing the course are not available
-
-Disadvantages: 
-- Very old course, so not well maintained, the forums show that many files required for completing the course are not available
-
 ## Statistics
 
 #### [OpenIntro Statistics](https://www.openintro.org/)
 Access: Free  
 A very down to earth introduction to Statistics and probability with an intuitive approach and real world examples. The book is accompanied by video lectures, most of which are by the author herself, Dr Mine Cetinkaya Rundell, and the site also has labs in R, which make it one of the most practically beneficial, and accessible courses on Statistics that we have come across.
+
 Advantages:
 - Good pedagogy, and no assumption of prior knowledge, yet pragmatic examples.
 - Plenty of exercises to help home in the concepts
@@ -78,6 +81,7 @@ Disadvantages:
 #### [Probability at Harvard by Joe Blitzstein](https://projects.iq.harvard.edu/stat110/home)
 Access: Free   
 This course delivers an entire undergraduate experience of studying at Harvard and introduces a rigorous and intuition-based introduction of probability and how it is applied.   
+
 Advantages:
 - Great insight is given into how probability exists in the real world and how it must be correctly applied to real life situations
 - Exercises are provided
@@ -88,7 +92,8 @@ Disadvantages:
 
 #### [Statistics and Probability by Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 Access: Free   
-For those who find [Probability at Harvard by Joe Blitzstein](#probability-at-harvard-by-joe-blitzstein) challenging Khan Academy's courses serve as a less rigorous alternative with an increased focus on intuition.   
+For those who find [Probability at Harvard by Joe Blitzstein](#probability-at-harvard-by-joe-blitzstein) challenging Khan Academy's courses serve as a less rigorous alternative with an increased focus on intuition. 
+
 Advantages:
 - Highly conceptual videos with focus on intuition
 - Exercises are provided
@@ -102,6 +107,7 @@ Although Andrew Ng, Carlos and Emily intentionally attempt to cover up the mathe
 #### [Linear Algebra at MIT by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 Access: Free   
 This course delivers an entire undergraduate experience of studying at MIT and introduces a rigorous and intuition-based introduction of linear algebra and how it is applied.   
+
 Advantages:   
 - Great insight is given into how linear algebra is relevant and how it must be correctly applied to real life situations
 - Recitation videos are present - these videos walk you through a solution to a specific problem
@@ -114,6 +120,7 @@ Disadvantages:
 #### [Linear Algebra by Khan Academy](https://www.khanacademy.org/math/linear-algebra)
 Access: Free   
 For those who find [Linear Algebra at MIT by Gilbert Strang](#linear-algebra-at-mit-by-gilbert-strang) challenging Khan Academy's courses serve as a less rigorous alternative with an increased focus on intuition.   
+
 Advantages:
 - Highly conceptual videos with focus on intuition
 - Exercises are provided
@@ -132,6 +139,7 @@ Deep Learning (DL) is recongnised as a subdomain of ML and a wide majority of al
 Access: Audit / Financial aid (2-3 weeks approval time) / Payment   
 This specialisation (a sequence of many courses) is considered as a logical extension from [Andrew Ng's machine learning course](#andrew-ng-coursera) and is recognised as the best introduction to deep learning by the entire global community for its simplicity and concept-based learning. This specialisation contains 5 courses.    
 Note: You will have to apply for financial aid for each individual course   
+
 Advantages:
 - Andrew Ng dives into the algorithms used in machine learning by keeping mathematical involvement to a minimum whilst delivering all the intuition behind the mathematics used
 - Students are expected to code the machine learning algorithms themselves
