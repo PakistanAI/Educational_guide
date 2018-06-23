@@ -2,13 +2,13 @@
 
 | Contents      |
 | ------------- |
-| [General Artificial Intelligence](#general-artificial-intelligence)  |
+| [Artificial Intelligence](#general-artificial-intelligence)  |
 | [Machine Learning](#machine-learning)  |
 | [Statistics](#statistics)  |
 | [Mathematics](#mathematics)  |
 | [Deep Learning](#deep-learning)  |
 
-## General Artificial Intelligence
+## Artificial Intelligence
 These courses present a holistic view of Artificial Intelligence as a whole. The courses mentioned here give an idea as to what AI is all about.    
 
 #### [Artificial Intelligence Planning on Open.Ed by Austin Tate and Gerhard Wickler](https://open.ed.ac.uk/artificial-intelligence-planning/)
