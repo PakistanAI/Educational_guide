@@ -62,8 +62,8 @@ Disadvantages:
 - No practical advice on how to approach and solve machine learning problems is given throughout the course
 
 #### [Introduction to Statistical Learning and its applications in R (book)](https://www-bcf.usc.edu/~gareth/ISL/)
-Access: Free
-From the authors of what is considered by many as the mother of all books on machine learning 'Elements of Statistical Learning'. This book aims to be a simpler introduction to most of the contents of the aforementioned book, without much of the mathematical detail, along with how to implement the techniques taught in the R language. An absolute must-have for everyone wanting to get a solid grip on Machine learning through the model-based, and also algorithmic approaches with labs and tons of exercises for practice.
+Access: Free       
+From the authors of what is considered by many as the mother of all books on machine learning 'Elements of Statistical Learning'. This book aims to be a simpler introduction to most of the contents of the aforementioned book, without much of the mathematical detail, along with how to implement the techniques taught in the R language. An absolute must-have for everyone wanting to get a solid grip on Machine Learning through the model-based, and also algorithmic approaches with labs and tons of exercises for practice.
 
 Advantages:
 - In-depth (compared to most of the famous courses out there)
@@ -71,7 +71,7 @@ Advantages:
 - [Video lectures](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) following the book by the authors themselves
 
 Disadvantages:
-- Can't think of any
+- Rigorous
 
 ## Statistics
 
@@ -87,7 +87,7 @@ Disadvantages:
 - Although the book covers all topics usually taught in Statistics, but the treatment is still not too in-depth. One would need to move on to more advanced course or books on the subject
 
 #### [Statistics with R (specialization)](https://www.coursera.org/specializations/statistics)
-Access: paid (audit available)
+Access: Audit / Financial aid (2-3 weeks approval time for each individual course) / Payment    
 Closely following the book mentioned above, this course adds to the above, the value of teaching you how to practice what you learn in R. The videos are mostly the same, also by Dr Mine.
 
 #### [Probability at Harvard by Joe Blitzstein](https://projects.iq.harvard.edu/stat110/home)
@@ -164,5 +164,5 @@ Disadvantages:
 - Delivering mathematical intuition becomes difficult due to the increased mathematical complexity in certain algorithms
 
 #### [Deep Learning with python by Francois Chollet (book)](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?ie=UTF8&qid=1530012174&sr=8-1&keywords=deep+learning+with+python)
-Access: Paid ( bwah bwah bwah )
+Access: Paid     
 By the creator of the infamous keras library himself, this book is beyond doubt one of the best resources to dive into practical implementation of deep neural networks without the complexities, getting into which is not needed for the majority of practitioners. Succint, and brilliantly explained, this book is a must-have for all eyeing to get up and running with deep learning without falling into depths they cannot manage. *attempt at pun
